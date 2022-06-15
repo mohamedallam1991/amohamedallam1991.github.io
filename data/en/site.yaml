@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Mohamed's Blog
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  description: Portfolio and personal blog of Mohamed Allam.
+  image: images/author/mohamed.png
+  url: https://mohamedallam1991.github.io
