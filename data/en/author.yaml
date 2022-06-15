@@ -1,0 +1,21 @@
+# some information about you
+name: "Mohamed Allam"
+nickname: "Mohamed"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "johndoe@example.com"
+  phone: "+0213791812254  "
+  github: MohamedAllam1991
+  linkedin: johndoe
+
+# some summary about what you do
+summary:
+  - I am a Go Developer
+  - I still love Laravel
+  - I fall for Docker, Ansible, Jenkins
+  - I love servers
+  - I work on open-source projects
+  - I would love to work on your project NOW!
