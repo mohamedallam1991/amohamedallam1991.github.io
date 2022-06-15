@@ -18,10 +18,11 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v2.5.0
+        # uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.91.2'
-          # extended: true
+          hugo-version: 'latest'
+          extended: true
 
       - name: Build
         run: hugo --minify
@@ -31,4 +32,5 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
           publish_dir: ./public
