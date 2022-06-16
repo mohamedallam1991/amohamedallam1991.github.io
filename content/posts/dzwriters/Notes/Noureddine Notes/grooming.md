@@ -1,0 +1,1 @@
+In [[agile]], grooming is the process of reviewing user stories with the team to ensure they are well understood and can be completed within a sprint. This includes identifying any risks or dependencies associated with the story.

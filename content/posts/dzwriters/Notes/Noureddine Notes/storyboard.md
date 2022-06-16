@@ -1,0 +1,3 @@
+A storyboard in [[agile]] is a tool that helps project managers and developers to visualize the user stories and tasks involved in a project. It is a way of organizing and tracking the progress of the project, and can be used to identify potential risks and issues.
+
+The storyboard is used to help the team visualize the user stories and break them down into tasks. The [[grooming]] process is used to estimate the effort required to complete the user story.

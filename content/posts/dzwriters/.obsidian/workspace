@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "caf6c9137036816d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec9529e9c6c01f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Noureddine Notes/A Wave Of Billion-Dollar Language AI Startups Is Coming.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c5bb7dc9d5ff3b32",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Noureddine Notes/GPT-3.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1be4d8f51055ca2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Noureddine Notes/GPT-3 Prompts.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b83946d79b5da11",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fce365dd0b971bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209c875fbb636ef5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e921af878913743c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "gpt-3",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "right": {
+    "id": "a081365d5dbd72d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced1cd11df666f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc751fe3e27ae2e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Noureddine Notes/GPT-3.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6c07361068faa863",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7dbfe5a6623e12be",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d8d121e8285e185",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "15951cfa47a9f13b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3f0fc796bbef941",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d562fdeb659ce25",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "10cf7fd4d2a84254",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "0527997efcb09c5a",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337
+  },
+  "active": "c5bb7dc9d5ff3b32",
+  "lastOpenFiles": [
+    "Notes/Noureddine Notes/GPT-3.md",
+    "Notes/Noureddine Notes/GPT-3 Prompts.md",
+    "Notes/Noureddine Notes/A Wave Of Billion-Dollar Language AI Startups Is Coming.md",
+    "Clubhouse/Rooms/Room-05-04-2022.md",
+    "Notes/Noureddine Notes/google dorking.md",
+    "Notes/Noureddine Notes/Outreach.md",
+    "Readings/Google Search Is Dying.md",
+    "Notes/Noureddine Notes/Google E.A.T.md",
+    "Clubhouse/Rooms/Room-12-04-2022.md",
+    "Clubhouse/Rooms/Room-22-04-2022.md"
+  ]
+}

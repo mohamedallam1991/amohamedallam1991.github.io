@@ -1,0 +1,1 @@
+A horizontal layout is a type of layout used in business and product development. In a horizontal layout, organizations focus on creating products or services that can be delivered to customers or clients. This type of layout is often used in businesses that have a wide range of products or services. 

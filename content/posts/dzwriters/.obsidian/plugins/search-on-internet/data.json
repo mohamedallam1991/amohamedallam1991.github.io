@@ -1,0 +1,78 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.bing.com/search?q={{query}}",
+      "name": "Bing",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://en.wikipedia.org/wiki/Special:Search/{{query}}",
+      "name": "Wikipedia",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={{query}}",
+      "name": "Scholar",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://academic.microsoft.com/search?q={{query}}&f=&orderBy=0&skip=0&take=10",
+      "name": "academic research",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.bing.com/images/search?q={{query}}&form=QBLH&sp=-1&pq=streaming&sc=8-9&qs=n&cvid=120067673FBB48F2B91F35D7412103D0&first=1&tsc=ImageBasicHover",
+      "name": "bing images",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.connectedpapers.com/search?q={{query}}",
+      "name": "connectedpapers",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?q={{query}}",
+      "name": "google",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "{{query}}",
+      "name": "open on Iframe",
+      "encode": false
+    },
+    {
+      "tags": [],
+      "query": "https://www.pinterest.fr/search/pins/?q={{query}}",
+      "name": "Pinterest",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://duckduckgo.com/?q={{query}}",
+      "name": "DockDockGo",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://you.com/search?q={{query}}",
+      "name": "You",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://books.google.com/talktobooks/query?q={{query}}",
+      "name": "talktobooks",
+      "encode": true
+    }
+  ],
+  "useIframe": true,
+  "usePopover": true
+}

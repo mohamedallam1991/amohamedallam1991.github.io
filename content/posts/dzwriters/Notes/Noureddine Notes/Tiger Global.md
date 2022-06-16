@@ -1,0 +1,1 @@
+_Tiger Global_ is an investment firm focused on public and private companies in the global Internet, software, consumer, and financial technology industries.

@@ -1,0 +1,1 @@
+ERP, or enterprise resource planning, is a type of business management software that helps businesses track and manage their data and resources.

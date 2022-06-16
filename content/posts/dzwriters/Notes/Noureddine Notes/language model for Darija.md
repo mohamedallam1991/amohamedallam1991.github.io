@@ -1,0 +1,2 @@
+#ideas 
+use [[NeuralSpace]]
