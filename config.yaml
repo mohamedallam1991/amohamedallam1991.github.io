@@ -128,7 +128,8 @@ params:
       enabled: true
       # Google Analytics
       google:
-        id: G-H4LBG7NDFZ
+        id: G-DE8FCCPKP8
+        # id: G-H4LBG7NDFZ
       # # CounterDev
       # counterDev:
       #   id: <your counterdev id>
